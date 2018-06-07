@@ -1,0 +1,52 @@
+.center{
+    width: 1000px;
+    height: 680px;
+    margin: 0px auto;
+    padding: 10px 10px;
+    border: 2px seagreen dotted;
+    text-align: center;
+    background-color: #3D5B63;
+}
+.right{
+    width: 600px;
+    height:400px;
+    float: right;
+    overflow: hidden;
+    padding: 10px 10px;
+    border: 2px bisque solid;
+    background-color: grey;
+    border-radius: 4px;
+}
+.left{
+    width: 350px;
+    height:400px;
+    float: left;
+    overflow: hidden;
+    padding: 10px 10px;
+    border: 2px bisque solid;
+    background-color: grey;
+    border-radius: 4px;
+}
+
+b{
+    color: white;
+    text-align: center;
+    font-weight: normal;
+
+}
+h3{
+    color: white;
+    font-weight: normal;
+}
+.submit{
+    height: 70px;
+    width: 980px;
+    overflow: hidden;
+    margin: 4px 4px;
+    margin-top:20px;
+    padding: 4px 4px 4px;
+    border: 1px darkred medium;
+    background-color: grey;
+    border-radius: 6px;
+
+}

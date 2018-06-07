@@ -1,0 +1,50 @@
+a.button{
+    text-decoration: none;
+    background-image: 
+
+}
+
+
+body{
+    background-color: black;
+}
+
+
+.center{
+    margin: 0 auto;
+    margin-top: 200px;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    color: PaleGoldenrod;
+    padding: 50px 50px;
+    margin-top: 150px;
+    display: block;
+}
+input[type=text]{
+    border-radius: 5px;
+    border: 0;
+    width: 200px;
+    height:50px;
+    font-family: Tahoma;
+    background: #FEEDCB;
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+}
+input[type=submit]{
+    border-radius: 5px;
+    border: 0;
+    width: 200px;
+    height:50px;
+    font-family: Tahoma;
+    background: green;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+b{
+    margin-top: 50px;
+    font-weight: bold;
+}
+
